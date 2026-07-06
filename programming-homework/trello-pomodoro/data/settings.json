@@ -1,0 +1,9 @@
+{
+  "focus_duration": 1,
+  "short_break_duration": 5,
+  "long_break_duration": 15,
+  "long_break_interval": 4,
+  "enable_sound": true,
+  "sound_type": "bell",
+  "enable_notification": true
+}

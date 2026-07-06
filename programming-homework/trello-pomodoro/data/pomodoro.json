@@ -1,0 +1,66 @@
+{
+  "sessions": [
+    {
+      "id": "c97f71d5-f0ca-4132-82e8-75bfa2442f12",
+      "card_id": "无特定任务",
+      "card_title": "",
+      "state": "idle",
+      "start_time": "2026-05-25T22:49:51.986795",
+      "end_time": "2026-05-25T22:50:52.718417",
+      "duration_minutes": 1,
+      "actual_duration_minutes": 1,
+      "completed": true,
+      "interrupted": false,
+      "interruption_reason": "",
+      "created_at": "2026-05-25T22:49:51.986795"
+    },
+    {
+      "id": "2f8cfd76-e9ff-4481-b9d2-aa5a4f69a13f",
+      "card_id": "bd32e6d3-3341-4c80-8059-9b74506f6559",
+      "card_title": "买买买",
+      "state": "idle",
+      "start_time": "2026-05-31T16:08:45.496872",
+      "end_time": "2026-05-31T16:09:46.278409",
+      "duration_minutes": 1,
+      "actual_duration_minutes": 1,
+      "completed": true,
+      "interrupted": false,
+      "interruption_reason": "",
+      "created_at": "2026-05-31T16:08:45.496872"
+    },
+    {
+      "id": "ae422fa5-01cb-4b65-98b6-704a4cca5a80",
+      "card_id": null,
+      "card_title": "",
+      "state": "idle",
+      "start_time": "2026-05-31T20:29:29.048318",
+      "end_time": "2026-05-31T20:30:36.485774",
+      "duration_minutes": 1,
+      "actual_duration_minutes": 1,
+      "completed": true,
+      "interrupted": false,
+      "interruption_reason": "",
+      "created_at": "2026-05-31T20:29:29.048318"
+    }
+  ],
+  "daily_stats": {
+    "2026-05-25": {
+      "date": "2026-05-25",
+      "total_sessions": 1,
+      "completed_sessions": 1,
+      "total_focus_minutes": 1,
+      "sessions_by_card": {
+        "无特定任务": 1
+      }
+    },
+    "2026-05-31": {
+      "date": "2026-05-31",
+      "total_sessions": 2,
+      "completed_sessions": 2,
+      "total_focus_minutes": 2,
+      "sessions_by_card": {
+        "bd32e6d3-3341-4c80-8059-9b74506f6559": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- 图标资源 (可以添加实际的图标文件) -->
+        <!-- <file>icons/app-icon.png</file> -->
+        <!-- <file>icons/board.png</file> -->
+        <!-- <file>icons/card.png</file> -->
+        <!-- <file>icons/pomodoro.png</file> -->
+        <!-- <file>icons/statistics.png</file> -->
+        
+        <!-- 样式资源 -->
+        <!-- <file>styles/default.qss</file> -->
+        
+        <!-- 声音资源 -->
+        <!-- <file>sounds/bell.wav</file> -->
+        <!-- <file>sounds/tick.wav</file> -->
+        <!-- <file>sounds/complete.wav</file> -->
+    </qresource>
+</RCC>

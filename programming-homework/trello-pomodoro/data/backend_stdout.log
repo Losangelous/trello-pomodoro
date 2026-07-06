@@ -1,0 +1,9 @@
+启动 Trello Pomodoro 后端服务...
+地址: http://127.0.0.1:8765
+✓ 数据目录: C:\Users\PinHong\Desktop\programming-homework\trello-pomodoro\data
+✓ 服务已启动
+INFO:     127.0.0.1:10725 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7004 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:7004 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:3171 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10095 - "GET /api/health HTTP/1.1" 200 OK

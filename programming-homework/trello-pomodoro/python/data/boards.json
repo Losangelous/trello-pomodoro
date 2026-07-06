@@ -1,0 +1,42 @@
+{
+  "boards": [
+    {
+      "id": "3a3f0181-1178-4fa7-be28-4e9e7097bef8",
+      "name": "我的任务看板",
+      "background_color": "#f5f5f5",
+      "lists": [
+        {
+          "id": "9c6548c2-efc8-4995-8244-6159f63944fa",
+          "name": "待办",
+          "board_id": "3a3f0181-1178-4fa7-be28-4e9e7097bef8",
+          "position": 0,
+          "default_template": [],
+          "auto_archive": "never",
+          "cards": []
+        },
+        {
+          "id": "8f9fded2-5ce7-49de-90be-51a9ce8df16b",
+          "name": "进行中",
+          "board_id": "3a3f0181-1178-4fa7-be28-4e9e7097bef8",
+          "position": 1,
+          "default_template": [],
+          "auto_archive": "never",
+          "cards": []
+        },
+        {
+          "id": "bf715d39-6ab5-480e-a83b-34ad8f167c1c",
+          "name": "已完成",
+          "board_id": "3a3f0181-1178-4fa7-be28-4e9e7097bef8",
+          "position": 2,
+          "default_template": [],
+          "auto_archive": "never",
+          "cards": []
+        }
+      ],
+      "labels": [],
+      "archived_cards": [],
+      "created_at": "2026-05-10T00:41:44.518807",
+      "updated_at": "2026-05-10T00:41:44.518807"
+    }
+  ]
+}

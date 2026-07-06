@@ -1,0 +1,206 @@
+{
+  "boards": [
+    {
+      "id": "b8bd929e-c584-496d-aea0-60bb67aab418",
+      "name": "我的任务看板",
+      "background_color": "#f5f5f5",
+      "lists": [
+        {
+          "id": "06a664f2-8919-4725-9ae7-f141fc283570",
+          "name": "待办",
+          "board_id": "b8bd929e-c584-496d-aea0-60bb67aab418",
+          "position": 0,
+          "default_template": [],
+          "auto_archive": "never",
+          "cards": [
+            {
+              "id": "5b450f93-5343-4183-9d00-1172b63005a3",
+              "title": "12",
+              "description": "",
+              "list_id": "06a664f2-8919-4725-9ae7-f141fc283570",
+              "position": 0,
+              "due_date": null,
+              "reminder_minutes": 15,
+              "labels": [],
+              "checklist": [],
+              "attachments": [],
+              "is_pinned": false,
+              "is_archived": false,
+              "pomodoro_count": 0,
+              "total_focus_minutes": 0,
+              "checklist_progress": 0.0,
+              "created_at": "2026-07-06T14:10:49.916664",
+              "updated_at": "2026-07-06T14:10:49.916664"
+            },
+            {
+              "id": "b8afbf34-841a-4067-8cc5-824d3346529e",
+              "title": "12",
+              "description": "",
+              "list_id": "06a664f2-8919-4725-9ae7-f141fc283570",
+              "position": 1,
+              "due_date": null,
+              "reminder_minutes": 15,
+              "labels": [],
+              "checklist": [],
+              "attachments": [],
+              "is_pinned": false,
+              "is_archived": false,
+              "pomodoro_count": 0,
+              "total_focus_minutes": 0,
+              "checklist_progress": 0.0,
+              "created_at": "2026-07-06T14:13:33.259322",
+              "updated_at": "2026-07-06T14:13:33.259322"
+            },
+            {
+              "id": "0242ddf2-bb52-4723-9233-253c085f6b96",
+              "title": "234",
+              "description": "",
+              "list_id": "06a664f2-8919-4725-9ae7-f141fc283570",
+              "position": 2,
+              "due_date": null,
+              "reminder_minutes": 15,
+              "labels": [],
+              "checklist": [],
+              "attachments": [],
+              "is_pinned": false,
+              "is_archived": false,
+              "pomodoro_count": 0,
+              "total_focus_minutes": 0,
+              "checklist_progress": 0.0,
+              "created_at": "2026-07-06T14:15:04.165124",
+              "updated_at": "2026-07-06T14:15:04.165124"
+            }
+          ]
+        },
+        {
+          "id": "8e2e1c22-482c-4ec8-af6c-3192ecbf214d",
+          "name": "进行中",
+          "board_id": "b8bd929e-c584-496d-aea0-60bb67aab418",
+          "position": 1,
+          "default_template": [],
+          "auto_archive": "never",
+          "cards": [
+            {
+              "id": "74d22596-0ac6-4377-9585-46a750b6ca4b",
+              "title": "666",
+              "description": "",
+              "list_id": "8e2e1c22-482c-4ec8-af6c-3192ecbf214d",
+              "position": 0,
+              "due_date": null,
+              "reminder_minutes": 15,
+              "labels": [],
+              "checklist": [],
+              "attachments": [
+                {
+                  "id": "0f113697-186b-489b-b9a4-da90a27a0af3",
+                  "filename": "8238f0726e864833b048e1fd7b1644f3.docx",
+                  "original_filename": "史纲论文part1.docx",
+                  "size": 18968,
+                  "uploaded_at": "2026-05-26T20:32:48.330316"
+                }
+              ],
+              "is_pinned": false,
+              "is_archived": false,
+              "pomodoro_count": 0,
+              "total_focus_minutes": 0,
+              "checklist_progress": 0.0,
+              "created_at": "2026-05-26T20:06:30.636681",
+              "updated_at": "2026-05-31T16:08:38.824383"
+            }
+          ]
+        },
+        {
+          "id": "b760f7d0-05aa-464e-8bf3-4203ce73475a",
+          "name": "已完成",
+          "board_id": "b8bd929e-c584-496d-aea0-60bb67aab418",
+          "position": 2,
+          "default_template": [],
+          "auto_archive": "never",
+          "cards": [
+            {
+              "id": "bd32e6d3-3341-4c80-8059-9b74506f6559",
+              "title": "买买买",
+              "description": "",
+              "list_id": "b760f7d0-05aa-464e-8bf3-4203ce73475a",
+              "position": 0,
+              "due_date": null,
+              "reminder_minutes": 15,
+              "labels": [],
+              "checklist": [],
+              "attachments": [],
+              "is_pinned": false,
+              "is_archived": false,
+              "pomodoro_count": 1,
+              "total_focus_minutes": 1,
+              "checklist_progress": 0.0,
+              "created_at": "2026-05-26T20:06:25.203704",
+              "updated_at": "2026-05-26T20:06:25.203704"
+            }
+          ]
+        }
+      ],
+      "labels": [],
+      "archived_cards": [
+        {
+          "id": "08a6e991-ad0e-497e-8959-21123e2d1c06",
+          "title": "333",
+          "description": "",
+          "list_id": "b760f7d0-05aa-464e-8bf3-4203ce73475a",
+          "position": 0,
+          "due_date": null,
+          "reminder_minutes": 15,
+          "labels": [],
+          "checklist": [],
+          "attachments": [],
+          "is_pinned": false,
+          "is_archived": true,
+          "pomodoro_count": 0,
+          "total_focus_minutes": 0,
+          "checklist_progress": 0.0,
+          "created_at": "2026-05-25T22:48:02.217129",
+          "updated_at": "2026-05-25T22:48:02.217129"
+        },
+        {
+          "id": "c68d9334-b415-43db-a7c7-725f51381ffd",
+          "title": "111",
+          "description": "",
+          "list_id": "b760f7d0-05aa-464e-8bf3-4203ce73475a",
+          "position": 1,
+          "due_date": null,
+          "reminder_minutes": 15,
+          "labels": [],
+          "checklist": [],
+          "attachments": [],
+          "is_pinned": false,
+          "is_archived": true,
+          "pomodoro_count": 0,
+          "total_focus_minutes": 0,
+          "checklist_progress": 0.0,
+          "created_at": "2026-05-25T22:47:55.850804",
+          "updated_at": "2026-05-25T22:48:57.883019"
+        },
+        {
+          "id": "61713aea-f108-4db3-9408-c8fcee5b6715",
+          "title": "222",
+          "description": "",
+          "list_id": "8e2e1c22-482c-4ec8-af6c-3192ecbf214d",
+          "position": 0,
+          "due_date": null,
+          "reminder_minutes": 15,
+          "labels": [],
+          "checklist": [],
+          "attachments": [],
+          "is_pinned": false,
+          "is_archived": true,
+          "pomodoro_count": 0,
+          "total_focus_minutes": 0,
+          "checklist_progress": 0.0,
+          "created_at": "2026-05-25T22:47:59.351773",
+          "updated_at": "2026-05-25T22:47:59.351773"
+        }
+      ],
+      "created_at": "2026-05-25T22:47:41.241851",
+      "updated_at": "2026-07-06T14:15:04.165124"
+    }
+  ]
+}
